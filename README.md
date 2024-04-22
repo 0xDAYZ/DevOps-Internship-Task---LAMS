@@ -5,8 +5,7 @@ Syntax of using this app: `python3 log-monitor.py <logfile-path>`
 
 SCENARIO-1: Monitoring User Authentication
 
-![img_user_auth_1](https://www.notion.so/fbe351c5803f4c70808a537e30b6452d?pvs=4#2e0ddc4158444e3a906050c759276882)
-
-![img_user_auth_2](https://www.notion.so/fbe351c5803f4c70808a537e30b6452d?pvs=4#f2498f5bed014324ad8f76e4e8646d61)
-
-
+![Screenshot from 2024-04-22 20-44-30](https://github.com/0xDAYZ/DevOps-Internship-Task---LAMS/assets/98089001/e9ab61c0-2d20-4dda-8dae-1768f9118661)
+![Screenshot from 2024-04-22 20-53-03](https://github.com/0xDAYZ/DevOps-Internship-Task---LAMS/assets/98089001/27327421-5b2e-4758-8149-473244c07a44)
+![Screenshot from 2024-04-22 20-52-03](https://github.com/0xDAYZ/DevOps-Internship-Task---LAMS/assets/98089001/530828d5-13d4-4f15-90e3-89ad0d07c661)
+![Screenshot from 2024-04-22 20-45-28](https://github.com/0xDAYZ/DevOps-Internship-Task---LAMS/assets/98089001/63ee42d5-37c2-4ef9-b04b-91a82c015305)
