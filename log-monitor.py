@@ -15,6 +15,9 @@ with open('keywords.txt', 'r') as file:
 # Dictionary to store counts of each keyword
 keyword_counts = {keyword: 0 for keyword in keywords_to_monitor}
 
+# Clear Screen
+os.system('clear')
+
 # Function to monitor log file
 def monitor_log(log_file_path):
     try:
@@ -42,12 +45,6 @@ def generate_summary_report():
     for keyword, count in sorted_keyword_counts.items():
         print(f"\t[*] {keyword.title()}: {count}")
     print()
-
-def is_root():
-    if os.geteuid == 0:
-        return True
-    else:
-        return False
 
 if __name__ == "__main__":
 
